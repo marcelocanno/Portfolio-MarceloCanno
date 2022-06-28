@@ -1,0 +1,26 @@
+/* Hobbies*/
+ 
+.hobbies-section {
+    padding: 64px 50px;
+    text-align: center;
+}
+.hobbies-line {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 100%;
+}
+.hobbies-box {
+    background-color: var(--color-caixas);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 16px;
+    margin: 23PX 15PX 23PX 8px;
+    width: 150px;
+    height: 160px;
+}
+.hobbies-box ul {
+    margin: 0%;
+    padding: 0%;
+}
