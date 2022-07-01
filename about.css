@@ -1,8 +1,8 @@
 /*  about  */
 
 section.about {
-    padding: 62px 55px;
-    background-color: var(--cor-de-fundo);
+    padding: 22px 55px 0px 40px;
+    background-color: var(--cor-fundo-azul);
 
 }
 .section-about{
@@ -22,7 +22,4 @@ section.about div.about-container img {
     margin: 16px 0;
     
 }
-.section-title {
-    font-size: 22px;
-    text-align: center;
-}
+

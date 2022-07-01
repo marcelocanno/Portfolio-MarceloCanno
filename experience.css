@@ -1,5 +1,7 @@
 /* experience */
 .experience{
+    background-color: var(--cor-fundo-azul);
+    padding: 4px 0;
     text-align: center;
 }
 .experience-box {
@@ -9,7 +11,7 @@
     flex-direction: row;
 }
 .experience-img {
-    margin: 10px 10px;
+    margin: 20px 10px;
     border-radius: 10px;
 }
 .experience-info {

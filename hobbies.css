@@ -1,7 +1,8 @@
 /* Hobbies*/
  
 .hobbies-section {
-    padding: 64px 50px;
+    background-color: var(--cor-fundo-azul);
+    padding: 4px 50px;
     text-align: center;
 }
 .hobbies-line {
@@ -11,7 +12,7 @@
     width: 100%;
 }
 .hobbies-box {
-    background-color: var(--color-caixas);
+    background-color: var(--cor-de-fundo);
     display: flex;
     flex-direction: column;
     justify-content: flex-end;

@@ -1,5 +1,10 @@
 /* contato */
+.conta {
+	background-color: var(--cor-de-fundo);
+}
 .contatos {
+	
+	margin: 4px 0;
     font-size: 32px;
     text-align: center;
     font-weight: 700;

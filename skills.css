@@ -1,9 +1,10 @@
 /* skills */
 
 section.skills {
-    padding: 64px 50px;
+    padding: 4px 50px;
     text-align: center;
 }
+
 section.skills div.skills-line {
     display: flex;
     flex-wrap: wrap;
@@ -11,7 +12,7 @@ section.skills div.skills-line {
     width: 100%;
 }
 section.skills div.skills-line div.skills-box {
-    background-color: var(--color-caixas);
+    background-color: var(--cor-de-fundo);
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
@@ -23,4 +24,5 @@ section.skills div.skills-line div.skills-box {
 .skills-box ul {
     margin: 0%;
     padding: 0%;
+    ;
 }

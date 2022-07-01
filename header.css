@@ -1,22 +1,25 @@
-/* header */
-.title-inicio {
-    justify-content: flex-start;
-}
-.menu{
+
+section.menu{
+        
     display: flex;
     justify-content: space-between;
+    align-items: center;
     align-content: flex-end;
     height: 10vh;
-    margin: 10px 153px;
+    margin: 0px 153px;
+    
 }
 section header {
+    
     display: flex;
     align-items: center;
     justify-content: space-between;
     font-weight: 700;
     color: var(--color-titulo);
+    
 }
 nav ul.menu-list {
+    
     display: flex;
     justify-content: space-between;
     width: 750px;
@@ -30,45 +33,6 @@ header img {
     height: 300px;
     border-radius: 50%;
 }
-.title {
-    text-decoration: none;
-    margin: 5px 0px;
-}
-div.title-container {
-    width: 700px;
-}
-div.title-container h2 {
-    font-size: 40px;
-    font-weight: 700;
-    line-height: 50px;
-}
-div.title-div {
-    text-align: start;
-    display: flex;
-    align-content: center;
-    justify-content: space-around;
-    flex-direction: row-reverse;
-}
-section.title img.profile {
-    margin-right: 100px; 
-    
-}
-section.title div.title-div div.title-container h3  {
-    font-size: 17px;
-    line-height: 23px;
-    width: 500px;
-}
-section.title div.title-div div.title-container h3 {
-    font-style: normal;
-    font-weight: 600;
-    font-size: 18px;
-    line-height: 16px;
-}
-section.title div.title-div div.title-container ul {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px;
-    font-size: 16px;
-    width: 500px;
-}
+
+
+

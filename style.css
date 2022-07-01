@@ -1,5 +1,9 @@
 
 :root{
+    --cor-fundo-elite: #7fffd4;
+    --cor-alt-fundo: #deb887;
+    --cor-de-tema: #00ffff;
+    --cor-fundo-mar: rgb(173,255,47);
     --cor-fundo-azul:#eaf2fd;
     --color-titulo:#464646;
     --cor-de-fundo: #F5F5F5;
@@ -23,10 +27,7 @@ a{
     text-decoration: none;
     color: var(--cor-de-link);
 }
-.menu-list-item-contato {
-    justify-content: flex-end;
-    margin: 20px 600px ;
-}
+
 
 
  /* Falta responsividade */
